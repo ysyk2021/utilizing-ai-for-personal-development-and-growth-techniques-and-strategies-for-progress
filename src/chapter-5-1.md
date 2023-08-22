@@ -1,4 +1,4 @@
-# Increasing Motivation and Productivity with AI-Powered Goal Tracking and Planning
+
 
 ## Introduction
 

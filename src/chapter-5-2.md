@@ -1,4 +1,4 @@
-# Boosting Health and Wellness with AI-Powered Personalized Recommendations and Coaching
+
 
 ## Introduction
 
