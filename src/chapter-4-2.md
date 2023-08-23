@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how AI can help individuals strengthen their memory and cognitive skills through AI-driven brain-training.
 
 AI-Enabled Brain-Training
