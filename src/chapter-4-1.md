@@ -1,5 +1,4 @@
-Chapter 6: Enhancing Learning with AI-Powered Tutoring and Personalized Recommendations
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how AI-driven tutoring and personalized recommendations are revolutionizing the way we learn and grow. These technologies have the potential to customize educational experiences, provide targeted guidance, and accelerate personal development in a highly efficient manner.
 

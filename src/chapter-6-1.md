@@ -1,5 +1,4 @@
-Chapter 7: Understanding the Tradeoffs of AI-Enhanced Personal Growth
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the complex landscape of AI-enhanced personal development and growth, exploring the benefits and tradeoffs that arise when we integrate technology into our quest for self-improvement.
 

@@ -1,5 +1,4 @@
-Chapter 11: Identifying Personal Development Goals That Can Be Achieved with AI
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the diverse array of personal development goals that can be effectively pursued with the assistance of AI technologies. Discover how AI can be harnessed to amplify your efforts in various areas of self-improvement.
 

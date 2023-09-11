@@ -1,5 +1,4 @@
-Chapter 9: Strengthening Memory and Cognitive Skills with AI-Driven Brain Training
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how AI-driven brain-training techniques can be harnessed to enhance memory and cognitive skills, enabling individuals to unlock their full cognitive potential and boost personal development.
 

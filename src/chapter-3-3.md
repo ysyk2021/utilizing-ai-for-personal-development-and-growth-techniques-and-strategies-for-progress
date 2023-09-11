@@ -1,5 +1,4 @@
-Chapter 10: Creating a Customized AI Roadmap for Personal Achievement
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the process of designing a personalized AI roadmap for personal achievement. Harnessing the capabilities of AI to tailor your path towards success can be a powerful strategy for personal development and growth.
 

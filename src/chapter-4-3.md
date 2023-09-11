@@ -1,5 +1,4 @@
-Chapter 8: Developing New Skills and Talents with AI-Enabled Career Assessments and Planning
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the transformative impact of AI-enabled career assessments and planning tools on personal development and skill acquisition. These technologies empower individuals to make informed career decisions, identify growth opportunities, and cultivate new talents effectively.
 
